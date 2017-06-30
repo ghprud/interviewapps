@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPagesManager</string>
+    <string name="facebook_app_id">802316543266625</string>
+    <string name="fb_login_protocol_scheme">fb802316543266625</string>
+</resources>
